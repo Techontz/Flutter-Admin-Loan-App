@@ -7,7 +7,6 @@ Visit FlutterLibrary.com to Download the [Flutter e-commerce app template](https
 
 ### Video Preview of the Shop template
 
-![Preview](/intro.gif)
 
 ## Screens it contains:
 
@@ -36,10 +35,3 @@ Visit FlutterLibrary.com to Download the [Flutter e-commerce app template](https
 Now it contains all the screen, thanks for your love and support 🙏 
 
 ## Photos
-![Preview](/1.png)
-![Preview](2.png)
-![Preview](3.png)
-![Preview](4.png)
-![Preview](5.png)
-![Preview](6.png)
-![Preview](7.png)
